@@ -1,0 +1,39 @@
+h2{
+    display: flex;
+    width: 50%;
+    color:  red;
+    padding: 1em;
+}
+    div, input, i{
+    color: blue;
+}
+.form {
+    display: flexbox;
+ 
+    width: 50%;
+       padding: 1em;
+}
+input,  {
+    width: 50%;
+    padding: 1em;
+    border-radius: 20px;
+    border: 1px;
+    text-align: center;
+}
+.div, input{
+    border-radius: 10px;
+}
+.div, h4{
+    color: brown;
+    margin-bottom: 0%;
+}
+.input-box, input text{
+width: 80%;
+justify-content: space-between;
+
+}
+.button {
+padding: 2em;
+
+color:  rgb(103, 103, 158);
+}
